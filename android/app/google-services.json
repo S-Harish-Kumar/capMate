@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "215216587154",
+    "firebase_url": "https://stress-monitoring-cap-default-rtdb.firebaseio.com",
+    "project_id": "stress-monitoring-cap",
+    "storage_bucket": "stress-monitoring-cap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215216587154:android:400f9caabb023221a7414b",
+        "android_client_info": {
+          "package_name": "com.harishkumar.mysensordashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVLdtoJQR17ZHVTxT34m30bKWAgUJzNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
